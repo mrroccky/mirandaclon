@@ -1,0 +1,6 @@
+![home page](https://github.com/mrroccky/mirandaclon/blob/main/showcase/1.png?raw=true)
+![home page](https://github.com/mrroccky/mirandaclon/blob/main/showcase/2.png?raw=true)
+![home page](https://github.com/mrroccky/mirandaclon/blob/main/showcase/3.png?raw=true)
+![home page](https://github.com/mrroccky/mirandaclon/blob/main/showcase/4.png?raw=true)
+![home page](https://github.com/mrroccky/mirandaclon/blob/main/showcase/5.png?raw=true)
+![home page](https://github.com/mrroccky/mirandaclon/blob/main/showcase/6.png?raw=true)
